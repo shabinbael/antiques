@@ -1,4 +1,6 @@
-University end-of-term website project. All images added for educational purposes.
+[rus] Сайт с БД для курсовых проектов по Веб-технологиям и БД.
+
+[en] University end-of-term website project. All images added for educational purposes.
 
 Based on Yii-2 framework (Advanced template).
 
