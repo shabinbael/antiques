@@ -12,7 +12,7 @@ return [
         ],
         'languagepicker' => [ // minimal config
             'class' => 'lajax\languagepicker\Component',
-            'languages' => ['en', 'ru'] // List of available languages (icons only)
+            'languages' => ['en', 'ru', 'fr'] // List of available languages (icons only)
             ],
         
         'i18n' => [
