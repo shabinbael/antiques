@@ -4,8 +4,8 @@
 
 Based on Yii-2 framework (Advanced template).
 
-Two languages for interface: English, Russian (i18n, dictionaries in folders /messages/ru, used lajax/yii2-language-picker). 
+Three languages for interface: English, Russian, French (i18n, dictionaries in Frontend and Backend folders /messages/ru, /messages/fr, used addition lajax/yii2-language-picker). 
 
-Side menu on backend - kartik-v/yii2-widget-sidenav.
+Side menu on backend - used addition: kartik-v/yii2-widget-sidenav.
 
 All content in Russian. Database stored in folder /sql_mysql_to_import. 
