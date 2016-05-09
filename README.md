@@ -1,6 +1,6 @@
-[rus] Сайт с БД для курсовых проектов по Веб-технологиям и БД.
+[rus] Сайт с БД для курсовых проектов по Веб-технологиям и БД. Все тексты и изображения использованы в образовательных целях и будут удалены после сдачи проекта преподавателю.
 
-[en] University end-of-term website project. All images added for educational purposes.
+[en] University end-of-term website project. All images and text added for educational purposes and will be removed after test passed.
 
 Based on Yii-2 framework (Advanced template).
 
